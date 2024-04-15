@@ -1,0 +1,6 @@
+pandas
+torch==2.2.1
+scikit-learn
+pyyaml
+pydantic
+dgl
