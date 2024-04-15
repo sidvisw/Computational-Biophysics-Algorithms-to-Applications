@@ -47,6 +47,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Now, select the virtual environment created while running the main.ipynb Jupyter Notebook.
+3. Now, select the virtual environment created while running the Jupyter Notebook (main.ipynb).
 
 Please refer to the main.ipynb file for the complete code and detailed implementation.
+
+## Authors and Contributors
+
+- [Sidharth Vishwakarma - 20CS10082](https://github.com/sidvisw)
+- [Grace Sharma - 20CS30022](https://github.com/Grce47)
+- [Vineet Amol Pippal - 20CS30058](https://github.com/vaptheone)
